@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Andrea%20Gallo%20&fontSize=70&theme=dark" />
+</p>
 # <p align="center">💫 About Me</p>
 
 Estudiante de **octavo ciclo de Ingeniería de Software**. Me dedico a la construcción de soluciones tecnológicas robustas y escalables, con un interés especial en la integración entre el desarrollo de sistemas y el análisis de datos. Mi enfoque profesional se centra en crear software que aporte valor real a través de **Business Intelligence** y la optimización de procesos complejos.
