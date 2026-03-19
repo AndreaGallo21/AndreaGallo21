@@ -1,9 +1,8 @@
-
 # <p align="center">💫 About Me</p>
 
-Estudiante de **octavo ciclo de Ingeniería de Software**. Me dedico a la construcción de soluciones tecnológicas robustas y escalables, con un interés especial en la integración entre el desarrollo de sistemas y el análisis de datos. Mi enfoque profesional se centra en crear software que aporte valor real a través de **Business Intelligence** y la optimización de procesos complejos.
+**Software Engineering student, currently in my 8th term**. I am dedicated to building robust, scalable technological solutions, with a strong focus on integrating system development and data analysis. My professional approach centers on creating software that delivers real value through **Business Intelligence** and the optimization of complex processes.
 
-Actualmente me encuentro profundizando en arquitecturas backend, gestión de bases de datos y el diseño de soluciones basadas en datos para diversos sectores. Mi objetivo es consolidar mis habilidades técnicas manteniendo un alto rendimiento académico y aplicando metodologías ágiles en cada proyecto que desarrollo. Me apasiona aprender nuevas tecnologías como **Java, Python** y herramientas de visualización de datos.
+I am currently deepening my knowledge in backend architectures, database management, and designing data-driven solutions for various sectors. My goal is to consolidate my technical skills while maintaining high academic performance and applying agile methodologies in every project I develop. I am passionate about learning new technologies, including **Java, Python**, and data visualization tools.
 
 <p align="center">
   <a href="https://linkedin.com/in/andrea-g-97b289287" target="_blank">
@@ -19,7 +18,7 @@ Actualmente me encuentro profundizando en arquitecturas backend, gestión de bas
 
 # 💻 Tech Stack
 
-### 🚀 Lenguajes & Frameworks
+### 🚀 Languages & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -44,7 +43,7 @@ Actualmente me encuentro profundizando en arquitecturas backend, gestión de bas
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### 🛠️ Herramientas & DevOps
+### 🛠️ Tools & DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
